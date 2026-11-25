@@ -21,7 +21,5 @@ If you refer to this work, please cite the final published version or the arXiv 
 ## Claim of using LLM
 The core ideas, problem formulation, theoretical development, and conclusions of this work are entirely those of the authors. AI tools were used only in the following auxiliary roles.
 
-In Sections 4.2 and 4.3, AI tools were used to assist with computations and part of the problem formulation in Section 5.2. All computational results were subsequently checked and verified by the authors.
-
 AI tools also assisted in literature search and in polishing the language of the manuscript. All references were verified by the authors, and the authors take full responsibility for the accuracy and integrity of the content.
 
