@@ -1,6 +1,12 @@
 # Repository Notice
 This repository hosts the manuscript **Uniform High Probability Convergence Rates of the Randomized Coordinate Descent Method**, which is currently under revision. It is not a final, peer-reviewed, or formally published version.
 
+This manuscript is part of the repository
+
+https://github.com/Gradvu/kolmogorov_inequality
+
+which contains the full commit history, presentation slides for this work, and discussions and notes from the completion of this work.
+
 ## Authors and Contact
 Cunxin Huang, The Hong Kong Polytechnic University, Hong Kong, China. Email: huangcunxin@outlook.com
 
