@@ -2,8 +2,10 @@
 This repository hosts the manuscript **Uniform High Probability Convergence Rates of the Randomized Coordinate Descent Method**, which is currently under revision. It is not a final, peer-reviewed, or formally published version.
 
 ## Authors and Contact
-Cunxin Huang, The Hong Kong Polytechnic University, Hong Kong, China. Email: huangcunxin@outlook.com\\
-Zao Jiang, Sun Yat-sen University, Guangzhou, China. Email: jiangz@mail2.sysu.edu.cn\\
+Cunxin Huang, The Hong Kong Polytechnic University, Hong Kong, China. Email: huangcunxin@outlook.com
+
+Zao Jiang, Sun Yat-sen University, Guangzhou, China. Email: jiangz@mail2.sysu.edu.cn
+
 Zaikun Zhang, Sun Yat-sen University, Guangzhou, China. Email: zhangzaikun@mail.sysu.edu.cn
 
 ## Status and Responsibility
