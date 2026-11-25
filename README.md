@@ -3,9 +3,9 @@ This repository hosts the manuscript **Uniform High Probability Convergence Rate
 
 This manuscript is part of the repository
 
-https://github.com/Gradvu/kolmogorov_inequality
+https://github.com/Gradvu/kolmogorov_inequality.
 
-which contains the full commit history, presentation slides for this work, and discussions and notes from the completion of this work.
+The repository was initialized on April 2, 2023, and contains the full commit history, presentation slides for this work, and discussions and notes during completing this work.
 
 ## Authors and Contact
 Cunxin Huang, The Hong Kong Polytechnic University, Hong Kong, China. Email: huangcunxin@outlook.com
