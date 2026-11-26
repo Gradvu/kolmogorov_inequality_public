@@ -38,5 +38,7 @@ If you refer to this work, please cite as follows:
 ## Claim of using LLM
 The core ideas, problem formulation, theoretical development, and conclusions of this work are entirely those of the authors. AI tools were used only in the following auxiliary roles.
 
-AI tools also assisted in literature search and in polishing the language of the manuscript. All references were verified by the authors, and the authors take full responsibility for the accuracy and integrity of the content.
+AI assisted the tedious calculations in Section 4.3, suggested the definition of block norms in Section 5.2. The accuracy of all these parts has been double checked, and the authors take full responsibility.
+
+AI tools also assisted in searching the literature and in polishing the language of the manuscript. All references were verified by the authors, and the authors take full responsibility for the accuracy and integrity of the content.
 
