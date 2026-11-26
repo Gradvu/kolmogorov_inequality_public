@@ -8,7 +8,7 @@ https://github.com/Gradvu/kolmogorov_inequality.
 The repository was initialized on April 2, 2023, and contains the full commit history, presentation slides for this work, and discussions and notes during completing this work.
 
 ## Authors and Contact
-Author names are listed in alphabetical order of family name by default.
+Author names are listed in alphabetical order of family names by default.
 
 Cunxin Huang, The Hong Kong Polytechnic University, Hong Kong, China. Email: huangcunxin@outlook.com
 
