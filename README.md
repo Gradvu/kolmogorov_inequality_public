@@ -26,7 +26,7 @@ Any copying, distribution, or modification of the manuscript, in whole or in par
 ## Citation
 If you refer to this work, please cite as follows:
 
-@misc{Jiang_Huang_Zhang,
+@misc{Huang_Jiang_Zhang,
       title={Uniform High Probability Convergence Rates of the Randomized Coordinate Descent Method}, 
       author={Huang, C. and Jiang, Z. and Zhang, Z.},
       year={2026},
