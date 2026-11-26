@@ -31,7 +31,7 @@ If you refer to this work, please cite as follows:
       author={Huang, C. and Jiang, Z. and Zhang, Z.},
       year={2026},
       archivePrefix={Github},
-      url={https://github.com/Gradvu/uniform_prob}, 
+      url={ https://github.com/Gradvu/uniform_prob }, 
 }
 
 
