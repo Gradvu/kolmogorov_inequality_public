@@ -30,7 +30,7 @@ If you refer to this work, please cite as follows:
       title={Uniform High Probability Convergence Rates of the Randomized Coordinate Descent Method}, 
       author={Huang, C. and Jiang, Z. and Zhang, Z.},
       year={2026},
-      archivePrefix={Github},
+      archivePrefix={github},
       url={ https://github.com/Gradvu/uniform_prob }, 
 }
 
